@@ -63,10 +63,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;
 </p>
-<h2 id="github-contributions">Github 贡献📈</h2>
-<p align="center">
-  <img src="https://github.com/L-w-p-999/mesnk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 <hr>
 <br>
