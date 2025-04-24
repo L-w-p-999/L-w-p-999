@@ -9,19 +9,16 @@
 <br>
 <h2 id="github-stats">Github 统计信息</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=L-w-p-999&show_icons=true&theme=github_dark">
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay29hub&theme=dark">
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmay29hub&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L-w-p-999&theme=github_dark">
 </p>
 <hr>
 <br>
 <h2 id="most-used-languages">最常用的语言📚</h2>
 <p align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=L-w-p-999&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <h6>注意：这并不表明我的技能水平或类似的东西，它是 GitHub 上哪些语言拥有最多代码的指标。</h6>
 <hr>
