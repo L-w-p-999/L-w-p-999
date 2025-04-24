@@ -63,7 +63,18 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;
 </p>
+<!-- snake -->
+<hr>
+<br>
+<h3 id="operating-systems-">目前贡献图</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 
+</p>
 
 <hr>
 <br>
