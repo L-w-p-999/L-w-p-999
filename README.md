@@ -69,8 +69,8 @@
 <h3 id="operating-systems-">目前贡献图</h3>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/L-w-p-999/mesnk/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
